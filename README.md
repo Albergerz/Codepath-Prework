@@ -21,12 +21,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 TikTok - the ability to hold down on the screen to bring up options like download photos or clear display
+       
        - the ability to remove all text on screen and profile pics using the clear display button
        
 Spotify - how it implements vertical and horizontal scrolling in its homepage
+        
         - the fluidity and resolution of the thumbnails of songs as they move
 
 Reddit - how it is able to show you personalized post based on your previous searches
+       
        - the ability to join communities via button that is available on the explore page or when you enter the subreddit
     
 ## Notes
