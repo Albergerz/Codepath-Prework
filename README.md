@@ -15,10 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/3f4ffa11ff274bbd8ef8d8a9e4544114">
+    </a>
+    <a href="https://www.loom.com/share/3f4ffa11ff274bbd8ef8d8a9e4544114">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3f4ffa11ff274bbd8ef8d8a9e4544114-with-play.gif">
+    </a>
+  </div>
+  
 ## App Brainstorming (Step 4)
 TikTok - the ability to hold down on the screen to bring up options like download photos or clear display
        
@@ -45,6 +49,8 @@ Reddit - how it is able to show you personalized post based on your previous sea
 -Along with the internal xcode struggles I had just recently got a macbook so I can work on xcode, and I have never used a mac so I had to get used to navigating the system.
 
 -I am also very new to using github so understanding repositories and navigating around the hub was difficult. Luckily the video tutorial that was included helped me
+
+- I would like to build an app that connects with your friends similar to discord but involves a gaming aspect. Lets say you have a group of friends and you all want to play and or talk with each other then my app would have a voice chat and that has a library of games you all can play as a group while on a call. I would like to include facetime integration, chat integration, and simple mobile games that can be played as a group. I would also want to include screen sharing and very clear, not cluttered, UI.
 
 ## License
 
