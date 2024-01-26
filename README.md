@@ -35,10 +35,15 @@ Reddit - how it is able to show you personalized post based on your previous sea
 ## Notes
 
 -Since this is my very first time using xcode I had major issues locating the correct buttons to open certain windows or files.
+
 -I've really only coded using python so the swift syntax was difficult to understand
+
 -Trying to figure out the UI functions of Swift like how to specify the label's text color using code. I just couldn't figure it out 
+
 -Also i have never really dealt with code that has multiple files, even though we only used two files it was still a bit confusing
+
 -Along with the internal xcode struggles I had just recently got a macbook so I can work on xcode, and I have never used a mac so I had to get used to navigating the system.
+
 -I am also very new to using github so understanding repositories and navigating around the hub was difficult. Luckily the video tutorial that was included helped me
 
 ## License
